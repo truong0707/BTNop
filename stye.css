@@ -1,0 +1,89 @@
+.bex{
+	width: 1500px;
+	height: 5px;
+	/*background :red;*/
+}
+.bexa{
+	width: 1500px;
+	height: 14px;
+	background-image: url(./images./vien.png);
+}
+.bexc{
+	width: 1500px;
+	height: 50px;
+	background: #FFFFFF;
+}
+.hinh{
+	transition: opacity 1s;
+    opacity: 1;
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    border-style: none;
+}
+  /*chỉnh ảnh phần 6*/
+/*.mom img{
+   width: 77%;
+   vertical-align: left;*/
+
+}
+.vitri{
+	background: white;
+	margin-top: 20px;
+	color: #282828;
+	font-size:20px;
+}
+.truong{
+	background: white;
+	margin-top: 20px;
+	color: #282828;
+}
+.carde{
+	background: red;
+	height: 170px;
+	background-image: url(./images./pic10.jpg);
+    color: red;
+    text-align: center;
+    background-size: 100%;
+}
+.phan8{
+	/*background-image: url(./images./pic1.jpg);*/
+	/*background:pink;*/
+    height: 500px;
+}
+.bexd{
+	width: 1500px;
+	height: 90px;
+	background: #FFFFFF;
+}
+.ran{
+	width: 2000px;
+	height: 650px;
+	/*background:pink;*/
+}
+.rvn{
+	height: 300px;
+}
+.min{
+	
+	height: 130px;
+    color: #5f0000;
+}
+.man{
+	height: 200px;
+    
+}
+  /*chỉnh chữ chủa phần 11*/
+.chu{
+	text-align: center;
+}
+  /*chỉnh ảnh PHẦN ĐẦU*/
+.clon img{
+  width: 101%;
+
+}
+/*.son{
+	color: #5f0000;
+	font-size: 25px;
+}*/
